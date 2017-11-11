@@ -1,0 +1,15 @@
+GetHaikuIntent say something
+GetHaikuIntent say a haiku
+GetHaikuIntent say a poem
+GetHaikuIntent tell me a poem
+GetHaikuIntent tell me a  haiku
+GetHaikuIntent a poem
+GetHaikuIntent a haiku
+GetHaikuIntent read me a poem
+GetHaikuIntent read me a haiku
+GetHaikuIntent tell me something
+GetHaikuIntent read me something
+GetHaikuIntent give me a poem
+GetHaikuIntent read me a poem
+GetHaikuIntent give me a haiku
+GetHaikuIntent read me a haiku
